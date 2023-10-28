@@ -135,9 +135,3 @@
     a1.sinks.hbaseSink.serializer.payloadColumn = datetime,userid,searchname,retorder,cliorder,cliurl
     
     #**************
-
-文章知识点与官方知识档案匹配，可进一步学习相关知识
-
-[云原生入门技能树](https://edu.csdn.net/skill/cloud_native/?utm_source=csdn_ai_skill_tree_blog)[首页](https://edu.csdn.net/skill/cloud_native/?utm_source=csdn_ai_skill_tree_blog)[概览](https://edu.csdn.net/skill/cloud_native/?utm_source=csdn_ai_skill_tree_blog)15812 人正在系统学习中
-
-本文转自 <https://blog.csdn.net/u011254180/article/details/80172452>，如有侵权，请联系删除。
